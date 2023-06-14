@@ -1,10 +1,10 @@
-# Digital Lock for a Safe
+# Digital Lock for a Safe 🔒
 
-## Project Description
+## Project Description 🔑
 
 Due to the ever-growing scientific technological advancements, crime rates are subsequently increasing throughout the world each day. Therefore, our team has designed a simple, cheap yet secure, and reliable system of a digital lock for the safe using logic gates, comparators, registers, and flip-flops. This system aims to prevent intruders and thieves from accessing the safe unless they can provide a binary password that correctly matches the preset password.
 
-## Features
+## Features 💫
 
 - Binary Password Verification: The system compares each bit of the user-entered passcode with the corresponding bit in the preset code. This comparison is performed using 4 XNOR gates, ensuring that the output is one only if all the bits match.
 
@@ -18,7 +18,7 @@ Due to the ever-growing scientific technological advancements, crime rates are s
 
 - Asynchronous Edge Detection: An asynchronous edge detector, implemented using NOT gates and XOR gates, is utilized to detect changes in input and acts as a clock signal for the two T flip-flops.
 
-## System Design
+## System Design 🖌️
 
 The system design includes the following components:
 
@@ -32,7 +32,7 @@ The system design includes the following components:
 
 ![All_logic_design](All_logic_design.PNG) 
 
-## Conclusion
+## Conclusion ✨
 
 Our digital lock system offers a cost-effective and reliable solution for securing safes. By utilizing logic gates, comparators, registers, and flip-flops, we have created a system that requires a correct binary passcode for access, prevents unauthorized attempts after three consecutive failures, and includes a reset functionality for continued safe usage. With these features, our digital lock system provides enhanced security and peace of mind.
 
