@@ -36,6 +36,3 @@ Our digital lock system offers a cost-effective and reliable solution for securi
 
 For more details, please refer to the project documentation and schematic diagrams.
 
-## Project Team
-- Mariam Barakat (4th Year Computer Science Student)
-- [Other Team Members' Names] (Titles/Positions)
