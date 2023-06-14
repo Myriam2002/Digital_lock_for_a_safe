@@ -30,6 +30,8 @@ The system design includes the following components:
 
 - Asynchronous Edge Detector: NOT gates and XOR gates are used to detect changes in input and provide the necessary clock signal for the T flip-flops.
 
+![All_logic_design](All_logic_design.PNG) 
+
 ## Conclusion
 
 Our digital lock system offers a cost-effective and reliable solution for securing safes. By utilizing logic gates, comparators, registers, and flip-flops, we have created a system that requires a correct binary passcode for access, prevents unauthorized attempts after three consecutive failures, and includes a reset functionality for continued safe usage. With these features, our digital lock system provides enhanced security and peace of mind.
